@@ -4,6 +4,8 @@
   "description": "construct Room squares from k=7 to k=47",
   "main": "index.js",
   "scripts": {
+    "preversion": "npm test",
+    "postpublish": "git push --tags && git push",
     "transform": "node transform-starters",
     "test": "node test.js"
   },
