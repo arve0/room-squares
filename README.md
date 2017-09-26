@@ -37,7 +37,7 @@ Which is useful for creating schedules for tournaments, because the square has t
 In a tournament this translates to rows being rounds, columns being tables/problems. Every player will therefor meet every oponent exactly once, and do every problem exactly once.
 
 ## Theory
-Starters are from "Contruction of Room Squares" by Stanton and Mullin.
+Starters are from [Contruction of Room Squares](https://projecteuclid.org/euclid.aoms/1177698135) by Stanton and Mullin.
 
 ## License
 MIT - Arve Seljebu 2017
