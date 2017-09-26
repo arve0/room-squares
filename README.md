@@ -4,7 +4,7 @@ Constructs Room squares from k=7 to k=47.
 
 ## Install
 ```
-npm install room-square
+npm install room-squares
 ```
 
 ## Usage
