@@ -1,0 +1,24 @@
+{
+  "name": "room-squares",
+  "version": "1.0.0",
+  "description": "construct Room squares from k=7 to k=47",
+  "main": "index.js",
+  "scripts": {
+    "transform": "node transform-starters",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arve0/room-squares.git"
+  },
+  "keywords": [
+    "tournament",
+    "schedule"
+  ],
+  "author": "Arve Seljebu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arve0/room-squares/issues"
+  },
+  "homepage": "https://github.com/arve0/room-squares#readme"
+}
